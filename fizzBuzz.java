@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class fizzBuzz {
-
+	/**
+	* Does whatever is desired.
+	*/
 	public static void main(String[] args) {
 		Scanner kb = new Scanner(System.in);
 		System.out.println("How many FizzBuzz numbers would you like to find?");
