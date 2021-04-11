@@ -2,6 +2,8 @@ import java.util.Scanner;
 public class fizzBuzz {
 	/**
 	* Does whatever is desired.
+	* <p>
+	* This is the main method, so anything can be done.
 	*/
 	public static void main(String[] args) {
 		Scanner kb = new Scanner(System.in);
