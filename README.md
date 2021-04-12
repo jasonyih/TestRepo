@@ -1,1 +1,2 @@
 # TestRepo
+[Javadocs](fizzBuzz.html)
