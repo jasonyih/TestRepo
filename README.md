@@ -1,2 +1,2 @@
 # TestRepo
-[Javadocs](fizzBuzz.html)
+[Javadocs](./doc/fizzBuzz.html)
